@@ -1,0 +1,64 @@
+@font-face {
+    font-family: RobotoSlab;
+    src: url("RobotoSlab-Regular.TTF");
+}
+
+body {
+    background-color: darkred;
+}
+
+
+header {
+    background-color: white;
+}
+
+.Ulletje {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+.blokje {
+    float: left;
+    font-family: RobotoSlab;
+}
+
+
+.blokje a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.blokje a:hover {
+    background-color: #111;
+}
+
+
+.home {
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-family: RobotoSlab;
+    padding: 10px 0px 10px 0px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
